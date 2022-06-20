@@ -33,7 +33,7 @@
     "graphqlUploadKoa.js",
     "ignoreStream.js",
     "processRequest.js",
-    "Upload.js"
+    "Upload.js","index.js"
   ],
   "sideEffects": false,
   "exports": {
